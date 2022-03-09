@@ -1,0 +1,47 @@
+<center>
+    <img src="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/Logos/organization_logo/organization_logo.png" width="300" alt="cognitiveclass.ai logo"  />
+</center>
+
+
+## <b>MY JUPYTER NOTEBOOK ON SKILLS NETWORK LAB</b>
+
+#### <b> Nikita Merwade </b>
+
+100% Human
+
+*I am interested in data science because I love to gain insights from data*
+
+**The following code tests the gauss formula**
+
+
+```python
+def gauss(n):
+    return (n*(n+1))/2
+
+gauss(100) == sum(range(101))
+```
+
+
+
+
+    True
+
+
+
+* one
+* two
+* three
+* one
+* two
+* three
+
+|Markdown         | Less | Pretty |
+|:----------------|------|--------|
+|*Still*            | Renders | **Nicely** |
+|1                 |2       |3       |
+
+
+
+```python
+
+```
